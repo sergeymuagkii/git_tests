@@ -1,7 +1,0 @@
-{ ( Hol ) ( Its ) ( 78881239 ) ( Hels_asd ) }
-{ ( Titil ) ( Garvan ) ( 891239 ) ( ian_asd ) }
-{ ( Hol ) ( Its ) ( 78881239 ) ( Hels_asd ) }
-{ ( Titil ) ( Garvan ) ( 891239 ) ( ian_asd ) }
-{ ( Tulula ) ( Tulula ) ( TuTuTululaa ) ( Vetrom_golovu_nadulo ) }
-{ ( Tutu ) ( ASdasda ) ( 12313131 ) ( asd ) }
-{ ( Black ) ( Bird ) ( Shit1231000123 ) ( Yep ) }
