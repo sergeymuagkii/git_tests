@@ -10,8 +10,20 @@ h1 {
 
 h2 {
 	color: green;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 h3 {
-	color: lightblue;
+	color: blue;
+	margin-bottom: 4px;
+}
+
+section p {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	margin-top: 20px;
 }
